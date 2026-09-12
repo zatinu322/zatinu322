@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">
+  <h1>
     <p>🚑 pavlikrpg</p>
     <div>
       <a href="https://www.youtube.com/@pavlikrpg">
@@ -23,30 +23,30 @@
 
 Мододел, ютубер, стример, немножко разработчик.
 
-Автор модификации [Improved Storyline]() для Ex Machina, а также множества других проектов разной степени паршивости. Принимал участие в разработке [Community Remaster]().
+Автор модификации [Improved Storyline](https://github.com/zatinu322/ImprovedStoryline) для Ex Machina, а также множества других проектов разной степени паршивости. Принимал участие в разработке [Community Remaster](https://github.com/DeusExMachinaTeam/EM-CommunityPatch).
 
 <div align="center">
-    <h3 align="center">Мои проекты по Ex Machina</h3>
-    <a href="">
+    <h3>Мои проекты по Ex Machina</h3>
+    <a href="https://github.com/zatinu322/ImprovedStoryline">
       <img src="https://img.shields.io/badge/Improved_Storyline-D68200?style=for-the-badge&logo=" alt="Improved Storyline"/>
     </a>
-    <a href="">
+    <a href="https://github.com/zatinu322/stream_builds">
       <img src="https://img.shields.io/badge/Community_Disaster-890094?style=for-the-badge&logo=" alt="Community Disaster"/>
     </a>
-    <a href="">
+    <a href="https://github.com/zatinu322/Var-Mod-Trash-Machina">
       <img src="https://img.shields.io/badge/Ex_Machina_Randomizer-704A14?style=for-the-badge&logo=" alt="Ex Machina Randomizer"/>
     </a>
-    <a href="">
+    <a href="https://github.com/zatinu322/hta_kazakh_autotranslation">
       <img src="https://img.shields.io/badge/Қатын Жүк Авокалипси-007B82?style=for-the-badge&logo=" alt="Қатын Жүк Авокалипси"/>
     </a>
-    <a href="">
+    <a href="https://github.com/zatinu322/demo_r1m4">
       <img src="https://img.shields.io/badge/Demo_r1m4_map_convert-198517?style=for-the-badge&logo=" alt="Demo R1M4 Map Convert"/>
     </a>
-    <h3 align="center">Другие проекты</h3>
-    <a href="">
+    <h3>Другие проекты</h3>
+    <a href="https://github.com/zatinu322/discord-bot">
       <img src="https://img.shields.io/badge/PavlikRPG's_Discord_Bot-5865F2?style=for-the-badge&logo=" alt="Pavlik RPG's Discord Bot"/>
     </a>
-    <a href="">
+    <a href="#">
       <img src="https://img.shields.io/badge/TBA:Stream_notifier_library-A32626?style=for-the-badge&logo=" alt="Stream Notifier Library"/>
     </a>
 </div>
@@ -60,3 +60,7 @@
   <h3>Хорошо умею</h3>
   <img src="https://media.tenor.com/Ofev06wBI64AAAAM/tumbleweed-highway.gif" />
 </div>
+
+---
+
+Залетайте на стримы, поиграем, пообщаемся.
